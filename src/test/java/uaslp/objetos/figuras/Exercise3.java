@@ -2,6 +2,7 @@ package uaslp.objetos.figuras;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import uaslp.objetos.figuras.Exception.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
